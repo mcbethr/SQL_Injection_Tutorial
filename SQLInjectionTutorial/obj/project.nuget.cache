@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+NQQ+fuqXX/x1MpKgCvU8kV/LPnT+nDxbDV5hby74/Eknltw5GrdFOmFHB+aFKxDrf0HJNhIvKaEiKfcoI2pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\SQL_Injection_Tutorial\\SQLInjectionTutorial\\SQLInjectionTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
